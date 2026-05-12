@@ -24,7 +24,8 @@
 
 ## Acerca de Wavii
 
-Wavii engloba todos los servicios de la aplicación móvil de aprendizaje musical. El ecosistema está diseñado para ofrecer una experiencia fluida tanto a estudiantes principiantes como a músicos avanzados, integrando módulos de lecciones, sistema de profesores certificados y funciones sociales.
+Wavii engloba todos los servicios de la aplicación móvil de aprendizaje musical. El ecosistema está diseñado para ofrecer una experiencia fluida tanto a estudiantes principiantes como a músicos avanzados, integrando módulos de lecciones, sistema de profesores certificados y funciones sociales. 
+https://github.com/Wavii-Project/wavii-app
 
 ### Principales características
 
