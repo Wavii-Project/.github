@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/eduglezexp/wavii/main/img/logo.png" alt="Wavii Logo" width="200" onerror="this.src='https://via.placeholder.com/200x200.png?text=Wavii'"/>
 
   # Wavii Organization
 
@@ -57,29 +56,6 @@ Nuestro ecosistema técnico está dividido en los siguientes pilares fundamental
 - **Contenedores:** Docker y Docker Compose
 - **Proxy Inverso:** Nginx
 - **ERP:** Odoo 17 (Gestión de profesores, finanzas)
-
-## Cómo empezar
-
-Si deseas contribuir o levantar el proyecto en un entorno local, el monorepositorio de Wavii contiene todo el código necesario:
-
-1. **Clonar el repositorio principal:**
-   ```bash
-   git clone https://github.com/Wavii/wavii.git
-   cd wavii
-   ```
-
-2. **Levantar infraestructura Backend (Docker):**
-   ```bash
-   cd docker
-   docker compose up -d
-   ```
-
-3. **Iniciar Frontend Móvil:**
-   ```bash
-   cd ../frontend
-   npm install
-   npx expo start
-   ```
 
 ---
 
